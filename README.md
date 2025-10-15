@@ -46,7 +46,8 @@ int main() {
 ```
 
 ##OUTPUT
-<img width="1639" height="1008" alt="Screenshot 2025-10-13 161844" src="https://github.com/user-attachments/assets/f0b5987e-e9e9-48d1-8ce4-97971f63d4e3" />
+<img width="1639" height="1008" alt="Screenshot 2025-10-13 161844" src="https://github.com/user-attachments/assets/6fadf026-7996-4f60-93f7-b853f12b0a06" />
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
