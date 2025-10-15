@@ -45,7 +45,7 @@ int main() {
 }
 ```
 
-##OUTPUT
+## OUTPUT
 <img width="1639" height="1008" alt="Screenshot 2025-10-13 161844" src="https://github.com/user-attachments/assets/6fadf026-7996-4f60-93f7-b853f12b0a06" />
 
 
@@ -96,7 +96,7 @@ int main() {
 
 ```
 
-##OUTPUT
+## OUTPUT
 
 <img width="1103" height="811" alt="Screenshot 2025-10-15 155317" src="https://github.com/user-attachments/assets/76b48702-e6bc-447d-8d0b-f39c12937092" />
 
